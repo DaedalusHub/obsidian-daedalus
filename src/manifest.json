@@ -1,0 +1,11 @@
+{
+	"$schema": "https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/schema.json",
+	"id": "daedalus",
+	"name": "Daedalus",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "An interface between Obsidian and Project Daedalus",
+	"author": "Sam Biggins",
+	"authorUrl": "https://github.com/smileynet",
+	"isDesktopOnly": false
+}
